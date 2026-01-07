@@ -1,7 +1,7 @@
 # Gilbert
 Hi my name is Gilbert Ardila
 
-<img width="1452" height="813" alt="image" src="https://github.com/user-attachments/assets/92a68e0c-2ff3-4f33-a818-5c97b612bfbc" />
+<img width="726" height="406" alt="image" src="https://github.com/user-attachments/assets/92a68e0c-2ff3-4f33-a818-5c97b612bfbc" />
 
 # Hi 👋, I'm Gilbert
 
