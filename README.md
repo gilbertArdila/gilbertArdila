@@ -3,7 +3,7 @@ Hi my name is Gilbert Ardila
 
 <img width="363" height="203" alt="image" src="https://github.com/user-attachments/assets/92a68e0c-2ff3-4f33-a818-5c97b612bfbc" />
 <img width="363" height="203" alt="image" src="https://github.com/user-attachments/assets/069f709c-8131-4af8-932a-74753b50d5d4" />
-
+<img width="363" height="203" alt="image" src="https://github.com/user-attachments/assets/d2f4b342-b94c-493c-8d6e-f47263799f94" />
 
 # Hi 👋, I'm Gilbert
 
